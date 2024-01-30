@@ -1,3 +1,4 @@
+
 # Data Extraction and Analysis 
 
 ## Objective
@@ -27,3 +28,4 @@ The primary goal of this project is to extract textual data from provided URLs, 
 
 ## Note
 The implementation was done in a Jupyter Notebook, and all files are available in a single directory to prevent conflicts.
+---
