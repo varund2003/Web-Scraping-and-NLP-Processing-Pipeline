@@ -1,12 +1,12 @@
 # Data Extraction and Analysis 
 
 ## Objective
-The primary objective of this project is to extract textual data from provided URLs, perform text analysis, and compute various relevant variables.
+The primary goal of this project is to extract textual data from provided URLs, perform text analysis, and compute various relevant variables.
 
 ## Tools and Libraries
-- **Pandas:** Utilized for reading the input Excel file (`input.xlsx`) containing URLs.
-- **BeautifulSoup and Requests:** Employed for web scraping and extracting article text from each URL while ensuring exclusion of headers, footers, and irrelevant content.
-- **NLTK (Natural Language Toolkit):** Used for text analysis, including tokenization, stop-word removal, and computation of various text variables.
+- Pandas: Used for reading the input Excel file (`input.xlsx`) containing URLs.
+- BeautifulSoup and Requests: Employed for web scraping and extracting article text from each URL while ensuring exclusion of headers, footers, and irrelevant content.
+- NLTK (Natural Language Toolkit): Utilized for text analysis, including tokenization, stop-word removal, and computation of various text variables.
 
 ## Implementation Steps
 
@@ -27,4 +27,3 @@ The primary objective of this project is to extract textual data from provided U
 
 ## Note
 The implementation was done in a Jupyter Notebook, and all files are available in a single directory to prevent conflicts.
-
