@@ -1,6 +1,5 @@
 
-# Data Extraction and Analysis 
-
+# Web Scraping and NLP Processing Pipeline
 ## Objective
 The primary goal of this project is to extract textual data from provided URLs, perform text analysis, and compute various relevant variables.
 
